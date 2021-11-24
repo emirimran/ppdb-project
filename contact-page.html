@@ -82,8 +82,9 @@
     <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Kontak Panitia Pendaftaran Didik Baru SMA Muhammadiyah 1 Yogyakarta</h2>
+        <div class="section-title" class="col-lg-3">
+          <h2>Kontak Panitia Pendaftaran Didik Baru SMA Muhammdiyah 1 Yogyakarta</h2>
+  
         </div>
 
         <div class="row">
@@ -121,24 +122,24 @@
           </div>
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form class="php-email-form" name="kontak-formulir-ppdb">
               <div class="row">
                 <div class="form-group col-md-12">
                   <label for="name">Nama Anda</label>
-                  <input type="text" name="name" class="form-control" id="name" required>
+                  <input type="text" name="name" class="form-control" id="name" required name="nama">
                 </div>
                 <div class="form-group col-md-12">
                   <label for="name">Email Anda</label>
-                  <input type="email" class="form-control" name="email" id="email" required>
+                  <input type="email" class="form-control" name="email" id="email" required name="email"> 
                 </div>
               </div>
               <div class="form-group">
                 <label for="name">Subjek</label>
-                <input type="text" class="form-control" name="subject" id="subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" required name="subjek">
               </div>
               <div class="form-group">
                 <label for="name">Pesan</label>
-                <textarea class="form-control" name="message" rows="10" required></textarea>
+                <textarea class="form-control" name="message" rows="10" required name="pesan"></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>
@@ -233,6 +234,23 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+
+
+
+  <script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxXIJW_nDSS2iDGwkcUf81iK6AurOex9TMOJP4W9EW8Hgjb9lpGLjxbTgeYh443KfJz/exec'
+    const form = document.forms['kontak-formulir-ppdb']
+  
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response => console.log('Success!', response))
+        .catch(error => console.error('Error!', error.message))
+    })
+  </script>
+
+
+
 
 </body>
 
