@@ -1,0 +1,38 @@
+Thanks for downloading this template!
+
+Template Name: Arsha
+Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
+
+
+<!-----Link Repository----->
+https://github.com/emrxy/ppdb-project
+
+<!-----Link GitHub Pages----->
+https://emrxy.github.io/ppdb-project/index.html
+
+<!-----Link Google Spreadsheet yang terhubung dengan formulir pada contact-page----->
+https://docs.google.com/spreadsheets/d/1Gu3zf2csYoq4ljnWg5WpMH36pcC1i_OnlB7KNuTG_U8/edit?usp=sharing
+
+
+
+Saya akan menjelas kan sedikit terkait tugas kelas web design yang ke-2 ini.
+	a. Saya sudah mengupload projek saya in ke GitHub page, sehingga dapat di akses oleh semua orang
+	b. Saya sudah mengedit temmplate yang saya download dari bootstrapmade.com seduai tugas yang 
+	   ditugaskan kepada saya
+	c. Web ini mempunyai tiga page yang bisa diakses melalui navbar button yang ada di bagian navbar #informasi
+	   dan #kontak
+	d. Ada bebrapa button yang direct langsung ke http://server.smumuhi-yog.sch.id/ppdb/index.php/web/home
+	   dikarenakan saya kekurangan waktu dalam pengerjaan sehingga agar tahu bahwa button tersebut aktif dan
+	   berfungsi saya hubungkan ke situs tersebut
+	e. Pada bagian #kontak yang terhubung dengan contact-page terdapat formulir pengiriman pesan yang sudah aktif,
+ 	   jadi siapapun yang melakukan submit pada formulir tersebut dapat kita lihat input nya pada google spreadsheet
+	   yang telah saya tambahkan dengan aplikasiweb yang sederhana
+	f. Mohon maaf untuk gambar-gambar yang ada pada information-page mungkin sedikit terlihat blur, dikarenakan
+	   resolusi gambarnya yang memang kecil dan hanya gambar itu yang saya temukan di internet
+	g. Semoga nilai yang saya dapatkan dari tugas ke dua ini bisa memuaskan  AAMIIN
+	
+Mungkin cukup sekan penjelasan terkait tugas kelas web design yang ke-2 ini, terimakasih banyak untuk Pak Maryanto dan Pak Ganang 
+yang sudah membimbing saya di kelas Web Design ini semoga ilmu yang saya dapat selama satu semester ini bisa terus berkembang dan 
+bermanfaat kedepannya.
