@@ -1,10 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
-
+	DESCRIPTION
 
 <!-----Link Repository----->
 https://github.com/emrxy/ppdb-project
@@ -31,7 +25,8 @@ Saya akan menjelas kan sedikit terkait tugas kelas web design yang ke-2 ini.
 	   yang telah saya tambahkan dengan aplikasiweb yang sederhana
 	f. Mohon maaf untuk gambar-gambar yang ada pada information-page mungkin sedikit terlihat blur, dikarenakan
 	   resolusi gambarnya yang memang kecil dan hanya gambar itu yang saya temukan di internet
-	g. Semoga nilai yang saya dapatkan dari tugas ke dua ini bisa memuaskan  AAMIIN
+	g. Jika ada perubahan yang terjadi pada situs ini kedepannya dapat dilihat dalam repository GitHub saya
+	h. Semoga nilai yang saya dapatkan dari tugas ke dua ini bisa memuaskan  AAMIIN
 	
 Mungkin cukup sekan penjelasan terkait tugas kelas web design yang ke-2 ini, terimakasih banyak untuk Pak Maryanto dan Pak Ganang 
 yang sudah membimbing saya di kelas Web Design ini semoga ilmu yang saya dapat selama satu semester ini bisa terus berkembang dan 
